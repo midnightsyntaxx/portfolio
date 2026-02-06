@@ -1,2 +1,2 @@
 # portfolio
-this is about website introduce my self
+My Personal Portfolio: A journey through my web development projects and learning process
